@@ -1,4 +1,4 @@
-﻿namespace MinimalWebAPI.EndPointDefinition
+﻿namespace MinimalWebAPI.EndPointDefinitionManager
 {
     public interface IEndPointDefinition
     {

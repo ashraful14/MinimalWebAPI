@@ -1,12 +1,4 @@
-﻿
-using Microsoft.EntityFrameworkCore;
-using MinimalWebAPI.Model;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-
-namespace MinimalWebAPI.Repositories
+﻿namespace MinimalWebAPI.Repositories
 {
     public class ProductsRepository : IProductRepository
     {

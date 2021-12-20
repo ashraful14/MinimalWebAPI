@@ -9,5 +9,6 @@ namespace MinimalWebAPI.Model
 
         }
         public DbSet<Product> Products { get; set; }
+        public DbSet<UserInfo> UserInfos { get; set; }
     }
 }
